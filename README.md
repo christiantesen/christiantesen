@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Christian Tesen from Peru<br><br>- 🔭 I am working as a freelancer providing external database optimization and maintenance services.<br>- 📚I am currently learning ASP.net to implement it on different architectures.<br>- ⚡ In my free time I usually read geek news, watch movies, listen to music and play some retro games.</p>
+<p align="left">I'm Christian Tesen from Peru<br><br>- 🔭 I am currently working on providing external database optimization and maintenance services as a freelancer.<br>- 🌱 I am currently learning ASP.net to implement it on different architectures.<br>- 👯 I am looking to collaborate on backend development projects, deployment optimization and architectures.<br>- 🤔 I'm looking for help mastering ASP.net and integrating it with various backend architectures.<br>- 💬 Ask me about FastApi, hexagonal architecture optimization, backend development and the transition to DevOps.<br>- 😄 Pronouns: Hyre<br>- ⚡ Fun fact: In my free time, I usually read geek news, watch movies, listen to music, and play some retro games.</p>
 
 ###
 
