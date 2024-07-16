@@ -133,17 +133,6 @@
   <img src="https://streak-stats.demolab.com?user=christiantesen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<h3 align="left">🔊  Music :</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31fyukuqscnozqi4vs75gw53pfc4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fyukuqscnozqi4vs75gw53pfc4&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
