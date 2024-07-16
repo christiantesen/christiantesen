@@ -21,12 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=christiantesen.christiantesen&left_color=dimgray"  />
-</div>
-
-###
-
 <h1 align="center">Back-End Developer 👋</h1>
 
 ###
@@ -151,4 +145,10 @@
   </a>
 </div>
 
-###
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=christiantesen&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
