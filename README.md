@@ -4,7 +4,7 @@
   <br>
   <p>
     <a href="https://linkedin.com/in/christian-tesen-becerra/"><b>💼 LinkedIn</b></a> &nbsp;•&nbsp;
-    <a href="mailto:ctesenb@gmail.com"><b>✉️ Email</b></a> &nbsp;•&nbsp;
+    <a href="mailto:ctesenb@gmail.com"><b>✉️ Email</b></a>
   </p>
 </div>
 
