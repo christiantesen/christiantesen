@@ -1,85 +1,74 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/74812707?v=4" alt="Profile avatar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Christian%20Tesen&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </div>
 
-<h1 align="center">Senior Full Stack Developer & Tech Lead 👋</h1>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/christian-tesen-becerra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="discordapp.com/users/331159362611576832" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <h2>Software Architect | Senior Software Engineer</h2>
+  <p><i>Designing scalable, decoupled, and resilient distributed systems</i></p>
+  
+  <a href="https://linkedin.com/in/christian-tesen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ctesenb@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=51957308626" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  <a href="https://api.whatsapp.com/send?phone=51943744552" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
 
 <br>
 
-## 👩‍💻 About Me
+## 👨‍💻 Acerca de mí
 
-Ingeniero de Software Full Stack y Líder Técnico con 5 años de trayectoria construyendo plataformas corporativas escalables[cite: 2, 4]. Me especializo en el desarrollo backend utilizando el entorno completo de **FastAPI y Python**, y en el desarrollo frontend moderno con **React y TypeScript**[cite: 2, 4]. 
+Ingeniero de Software y Arquitecto con 5 años de trayectoria progresiva en el diseño, escalabilidad y gobernanza técnica de plataformas corporativas críticas[cite: 6]. Me especializo en la construcción de sistemas distribuidos, aplicando rigurosamente principios de **Domain-Driven Design (DDD)**, **Arquitectura Hexagonal (Ports & Adapters)** y **Arquitecturas Orientadas a Eventos (EDA)** con Apache Kafka[cite: 6].
 
-Mi enfoque se basa en la aplicación rigurosa de principios de **Clean Architecture, Arquitectura Hexagonal y Domain-Driven Design (DDD)** para desacoplar el dominio del negocio de frameworks y bases de datos[cite: 4]. Poseo sólida experiencia en el despliegue contenerizado de infraestructuras en **AWS y Microsoft Azure**, y en la implementación de normativas de seguridad (OWASP/NIST)[cite: 2, 4].
+Mi enfoque técnico garantiza el desacoplamiento del núcleo del negocio de servicios externos, asegurando alta concurrencia y tolerancia a fallos mediante despliegues contenerizados en **Microsoft Azure** y **AWS** utilizando Docker y Linux[cite: 6].
 
-- 🔭 Actualmente liderando el diseño y la integración de arquitecturas backend asíncronas y seguras.
-- 🌱 Enfocado en la optimización de flujos CI/CD y despliegues en la nube con Docker.
-- 👯 Abierto a colaborar en el desacoplamiento de microservicios y proyectos de arquitectura de alto rendimiento.
-- 💬 Hablemos sobre FastAPI, React, TypeScript, modelado relacional (PostgreSQL/MySQL) y estrategias de caché con Redis.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: En mi tiempo libre disfruto del cine, la música y los videojuegos retro.
+- 🏢 **Actualmente:** Arquitecto de Software & Consultor Cloud, liderando la integración de servicios asíncronos y flujos de datos críticos, protegiendo el núcleo transaccional[cite: 6].
+- ⚙️ **Enfoque técnico:** Clean Architecture, Microservicios, APIs RESTful y cumplimiento estricto de normativas de seguridad OWASP/NIST[cite: 6].
+- 🚀 **Stack Principal:** Python (FastAPI/Django), React, TypeScript y persistencia de datos relacional y NoSQL de alto rendimiento[cite: 6].
 
 <br>
 
-## 🛠 Core Stack & Technologies
+## 🏗️ Core Stack & Tecnologías
 
-### Backend & Cloud Architecture
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a> 
-</p>
-
-### Frontend Development
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-</p>
-
-### Databases & Caching
-<p align="left"> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-</p>
+| Categoría | Herramientas y Tecnologías |
+|-----------|----------------------------|
+| 📐 **Arquitectura & Patrones** | Domain-Driven Design (DDD), Arquitectura Hexagonal, EDA, Microservicios, CQRS, Clean Architecture, SDD[cite: 6]. |
+| ☁️ **Cloud & DevOps** | Microsoft Azure (VMs, App Services, Blob Storage), AWS (EC2, VPC, S3, IAM), Docker, Linux, Nginx[cite: 6]. |
+| 💻 **Lenguajes & Backend** | Python (FastAPI, Django), TypeScript, JavaScript, C#, SQL, Bash scripting[cite: 6]. |
+| 🔄 **Mensajería & Eventos** | Apache Kafka (desacoplamiento transaccional), Redis (caching, rate limiting, sesiones)[cite: 6]. |
+| 🗄️ **Bases de Datos** | PostgreSQL, MySQL, MongoDB (Modelado relacional, integridad transaccional, optimización de consultas)[cite: 6]. |
+| 🎨 **Frontend Corporativo** | React, Angular, Tailwind CSS, Vite, estándares WCAG 2.2[cite: 6]. |
+| 🛡️ **Gobernanza & Seguridad** | Estándares OWASP Top 10, NIST, Autenticación JWT/OAuth2, Hashing Argon2id[cite: 6]. |
 
 <br>
 
-## 🔥 GitHub Stats
+## 🚀 Proyectos de Arquitectura Destacados
+
+* **Plataforma de Operaciones e Inteligencia de Datos Corporativa (TASA):** Diseño de la arquitectura de integración y desacoplamiento para el procesamiento asíncrono de flujos de datos críticos sobre Microsoft Azure[cite: 6]. Despliegue de entornos aislados y resilientes mediante contenedores Docker, asegurando alta tolerancia a fallos y protegiendo el núcleo transaccional[cite: 6].
+* **Prisma Legal:** Diseño e implementación de flujos de eventos asíncronos en producción utilizando Apache Kafka para desacoplar microservicios transaccionales de alta concurrencia bajo lineamientos de Domain-Driven Design (DDD)[cite: 6].
+* **Vendedores PRO:** Gobernanza de la adopción de DDD y Arquitectura Hexagonal para aislar el dominio del negocio, modelado de persistencia relacional y orquestación de la arquitectura base[cite: 6].
+
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=christiantesen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christiantesen&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christiantesen&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Dev Quote"/>
+</div>
 
 ---
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=christiantesen&icon=0&color=2" alt="Profile Views" />
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=christiantesen&icon=0&color=0077B5" alt="Profile Views" />
   </a>
 </div>
