@@ -11,10 +11,10 @@
   <a href="mailto:ctesenb@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/christian-tesen-becerra/" target="_blank">
+  <a href="https://www.linkedin.com/in/christian-tesen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=51957308626" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=51943744552" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Christian Tesen from Peru<br><br>- 🔭 I am currently working as a Tech Lead and Software Architect, designing scalable enterprise platforms and decoupled microservices.<br>- 🌱 I am currently focused on advanced Cloud optimization (AWS & Azure) and Event-Driven Architectures.<br>- 👯 I am looking to collaborate on high-impact architectural projects, Domain-Driven Design (DDD), and scalable Full Stack applications.<br>- 🤔 I'm looking for help mastering advanced distributed systems and infrastructure governance.<br>- 💬 Ask me about React, TypeScript, FastAPI, Hexagonal Architecture, Cloud Deployments, and Tech Leadership.<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: In my free time, I usually read geek news, watch movies, listen to music, and play some retro games.</p>
+<p align="left">I'm Christian Tesen from Peru<br><br>- 🔭 I am currently working as a Tech Lead and Software Architect, designing scalable enterprise platforms and decoupled microservices.<br>- 🌱 I am currently focused on advanced Cloud architecture (AWS & Azure), Event-Driven Architectures (Kafka), and AI integrations.<br>- 👯 I am looking to collaborate on high-impact architectural projects, Domain-Driven Design (DDD), and scalable Full Stack applications.<br>- 🤔 I'm always looking to master new paradigms in distributed systems and infrastructure governance.<br>- 💬 Ask me about React, TypeScript, FastAPI, Hexagonal Architecture, Cloud Deployments, and Tech Leadership.<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: In my free time, I usually read geek news, watch movies, listen to music, and play some retro games.</p>
 
 ###
 
@@ -51,7 +51,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 
-  <!-- Databases -->
+  <!-- Databases & Cache -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
@@ -74,7 +74,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=christiantesen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
